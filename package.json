@@ -1,0 +1,19 @@
+{
+  "name": "yaolnp",
+  "version": "1.0.0",
+  "description": "Yet Another One-Line Node Package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/H2CO3/YAOLNP.git"
+  },
+  "author": "Árpád Goretity \"H2CO3\"",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/H2CO3/YAOLNP/issues"
+  },
+  "homepage": "https://github.com/H2CO3/YAOLNP#readme"
+}
