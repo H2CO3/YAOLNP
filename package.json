@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/H2CO3/YAOLNP/issues"
   },
-  "homepage": "https://github.com/H2CO3/YAOLNP#readme"
+  "homepage": "https://github.com/H2CO3/YAOLNP#readme",
+  "dependencies": {
+    "maybe-monada": "^2.0.4"
+  }
 }
